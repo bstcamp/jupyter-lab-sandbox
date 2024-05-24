@@ -1,0 +1,9 @@
+NOTEBOOKS_DIR="${SRC_DIR}/notebooks"
+
+IMAGE_NAME=jupyter-lab
+IMAGE_TAG=latest
+
+#CONTAINER_NAME=jupyter-lab-sandbox
+
+#LAB_ADDR=127.0.0.1
+#LAB_PORT=8080
